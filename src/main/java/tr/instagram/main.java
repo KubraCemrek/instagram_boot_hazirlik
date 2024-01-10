@@ -21,6 +21,7 @@ public class main {
         app.clickFirstPost();
         app.likePost(app.getPostCount());
         app.driver.quit();
+        System.out.println("ters");
 
     }
 }
