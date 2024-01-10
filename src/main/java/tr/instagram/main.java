@@ -22,6 +22,7 @@ public class main {
         app.likePost(app.getPostCount());
         app.driver.quit();
         System.out.println("ters");
+        System.out.println(2);
 
     }
 }
