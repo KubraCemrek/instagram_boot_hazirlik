@@ -24,6 +24,7 @@ public class mainn {
         System.out.println("ters");
         System.out.println(2);
         System.out.println(3);
+        System.out.println(4);
 
     }
 }
