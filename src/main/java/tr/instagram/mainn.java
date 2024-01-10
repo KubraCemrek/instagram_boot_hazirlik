@@ -2,7 +2,7 @@ package tr.instagram;
 
 import java.util.Scanner;
 
-public class main {
+public class mainn {
 
     static Scanner input = new Scanner(System.in);
 
@@ -23,6 +23,7 @@ public class main {
         app.driver.quit();
         System.out.println("ters");
         System.out.println(2);
+        System.out.println(3);
 
     }
 }
